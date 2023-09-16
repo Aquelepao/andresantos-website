@@ -265,14 +265,14 @@ body.dark-mode h1 {
 .intro-text h1 {
   color: #a76060;
   font-weight: bold;
-  font-size: 6rem; 
+  font-size: 4rem; 
   margin-bottom: 20px; 
 }
 
 .intro-text p {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
-  font-size: 4rem; 
+  font-size: 2rem; 
   margin-bottom: 40px; 
 }
 
